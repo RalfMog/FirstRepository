@@ -4,5 +4,6 @@ public class File1 {
         System.out.println("Good Bye!");
         System.out.println("user_1");
         String text = "some new feature"
+                // line from git_starter
     }
 }
