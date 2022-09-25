@@ -4,6 +4,7 @@ public class Main {
 
         String user1 =
                 "Good evning!" +
-                "From branch master;
+                "From branch master" +
+                "another line from user1;
     }
 }
